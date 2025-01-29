@@ -1,7 +1,7 @@
-# AI Engineering Hub 🚀
+# AI Engineering Hub 
 Welcome to the **AI Engineering Hub**!
 
-## 🌟 Why This Repo?
+## 🌟 Why this Repo?
 AI Engineering is advancing rapidly, and staying at the forefront requires both deep understanding and hands-on experience. Here, you will find:
 - In-depth tutorials on **LLMs and RAGs**
 - Real-world **AI agent** applications
@@ -29,7 +29,7 @@ We welcome contributors! Whether you want to add new tutorials, improve existing
 ## 📜 License
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 💬 Connect
+##  Connect
 For discussions, suggestions, and more, feel free to [create an issue](https://github.com/patchy631/ai-engineering/issues) or reach out directly!
 
-Happy Coding! 🎉
+Happy Coding! 
